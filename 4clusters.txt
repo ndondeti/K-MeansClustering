@@ -1,0 +1,107 @@
+admissions
+1460926944400
+1460926948541
+4141
+1 - [1020] www.asu.edu/admissions/orientation/tempeorientation/parking.html
+2 - [1087] www.asu.edu/admissions/whychooseasu/studentstory15.html
+3 - [963] www.asu.edu/admissions/international/faq.html
+3 - [1075] www.asu.edu/admissions/visitcampus/tempecampus/appointment.html
+3 - [935] www.asu.edu/admissions/contact/counselor.html
+4 - [1083] www.asu.edu/admissions/whychooseasu/startASUdegree.html
+4 - [960] www.asu.edu/admissions/international/apply.html
+
+parking decal
+1460927029025
+1460927033731
+4706
+2 - [649] www.asu.edu/aad/manuals/pts/pts105table.html
+2 - [648] www.asu.edu/aad/manuals/pts/pts105.html
+2 - [643] www.asu.edu/aad/manuals/pts/pts101table.html
+4 - [2411] www.asu.edu/dps/pts/renew_06-07.htm
+4 - [2353] www.asu.edu/dps/pts/changes_improvements.htm
+4 - [2409] www.asu.edu/dps/pts/questions_answers.htm
+
+5
+admissions
+1460927114067
+1460927118493
+4426
+1 - [1020] www.asu.edu/admissions/orientation/tempeorientation/parking.html
+2 - [1087] www.asu.edu/admissions/whychooseasu/studentstory15.html
+3 - [963] www.asu.edu/admissions/international/faq.html
+3 - [1075] www.asu.edu/admissions/visitcampus/tempecampus/appointment.html
+3 - [935] www.asu.edu/admissions/contact/counselor.html
+4 - [1083] www.asu.edu/admissions/whychooseasu/startASUdegree.html
+5 - [960] www.asu.edu/admissions/international/apply.html
+
+1460927251790
+1460927261329
+9539
+1 - [2374] www.asu.edu/dps/pts/event/gammage.html
+2 - [649] www.asu.edu/aad/manuals/pts/pts105table.html
+2 - [648] www.asu.edu/aad/manuals/pts/pts105.html
+2 - [643] www.asu.edu/aad/manuals/pts/pts101table.html
+4 - [2411] www.asu.edu/dps/pts/renew_06-07.htm
+4 - [2353] www.asu.edu/dps/pts/changes_improvements.htm
+4 - [2409] www.asu.edu/dps/pts/questions_answers.htm
+5 - [23795] www.asu.edu/studentaffairs/reslife/WITH/November2006/winterbreak2006.htm
+
+7
+1460929080422
+1460929087878
+7456
+1 - [1020] www.asu.edu/admissions/orientation/tempeorientation/parking.html
+2 - [1087] www.asu.edu/admissions/whychooseasu/studentstory15.html
+3 - [1073] www.asu.edu/admissions/visitcampus/tempecampus/additional.html
+3 - [1079] www.asu.edu/admissions/visitcampus/tempecampus/tour.html
+4 - [1075] www.asu.edu/admissions/visitcampus/tempecampus/appointment.html
+4 - [935] www.asu.edu/admissions/contact/counselor.html
+4 - [936] www.asu.edu/admissions/contact/familymember.html
+5 - [948] www.asu.edu/admissions/howtoapply/index.html
+6 - [1083] www.asu.edu/admissions/whychooseasu/startASUdegree.html
+6 - [960] www.asu.edu/admissions/international/apply.html
+
+6901
+1 - [2374] www.asu.edu/dps/pts/event/gammage.html
+2 - [2287] www.asu.edu/downtownphoenix/parking/StudentFAQs.htm
+3 - [4595] www.asu.edu/hr/new_employee/parking_decal.html
+3 - [2362] www.asu.edu/dps/pts/decals/faculty.html
+3 - [2361] www.asu.edu/dps/pts/decals/display.html
+5 - [2411] www.asu.edu/dps/pts/renew_06-07.htm
+5 - [2353] www.asu.edu/dps/pts/changes_improvements.htm
+5 - [2409] www.asu.edu/dps/pts/questions_answers.htm
+7 - [23795] www.asu.edu/studentaffairs/reslife/WITH/November2006/winterbreak2006.htm
+
+1460929887217
+1460929893733
+6516
+1 - [1044] www.asu.edu/admissions/steps/computer.html
+1 - [1091] www.asu.edu/admissions/whychooseasu/studentstory3.html
+2 - [1020] www.asu.edu/admissions/orientation/tempeorientation/parking.html
+3 - [1087] www.asu.edu/admissions/whychooseasu/studentstory15.html
+4 - [1073] www.asu.edu/admissions/visitcampus/tempecampus/additional.html
+4 - [1079] www.asu.edu/admissions/visitcampus/tempecampus/tour.html
+5 - [1081] www.asu.edu/admissions/whychooseasu/index.html
+5 - [1096] www.asu.edu/admissions/whychooseasu/studentstory8.html
+6 - [935] www.asu.edu/admissions/contact/counselor.html
+6 - [936] www.asu.edu/admissions/contact/familymember.html
+6 - [939] www.asu.edu/admissions/contact/international.html
+7 - [948] www.asu.edu/admissions/howtoapply/index.html
+8 - [1083] www.asu.edu/admissions/whychooseasu/startASUdegree.html
+9 - [960] www.asu.edu/admissions/international/apply.html
+
+1460931542453
+1460931550673
+8220
+1 - [2374] www.asu.edu/dps/pts/event/gammage.html
+2 - [2352] www.asu.edu/dps/pts/carpoolparking_policy.htm
+3 - [2287] www.asu.edu/downtownphoenix/parking/StudentFAQs.htm
+4 - [2282] www.asu.edu/downtownphoenix/parking/FacultyFAQs.htm
+4 - [2281] www.asu.edu/downtownphoenix/parking/decals.html
+5 - [2361] www.asu.edu/dps/pts/decals/display.html
+5 - [4595] www.asu.edu/hr/new_employee/parking_decal.html
+5 - [2362] www.asu.edu/dps/pts/decals/faculty.html
+7 - [2411] www.asu.edu/dps/pts/renew_06-07.htm
+7 - [2353] www.asu.edu/dps/pts/changes_improvements.htm
+7 - [2409] www.asu.edu/dps/pts/questions_answers.htm
+10 - [23795] www.asu.edu/studentaffairs/reslife/WITH/November2006/winterbreak2006.htm
